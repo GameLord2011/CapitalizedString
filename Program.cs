@@ -1,4 +1,8 @@
-﻿using System.Reflection.Metadata;
+﻿/**
+* @author @GameLord2011
+*/
+
+using System.Reflection.Metadata;
 using System.Runtime.CompilerServices;
 
 Console.WriteLine("What's your name?");
