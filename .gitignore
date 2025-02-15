@@ -1,3 +1,5 @@
 /game/obj/
 /game/bin/
 /.vs/
+/publish/
+/installer.exe
