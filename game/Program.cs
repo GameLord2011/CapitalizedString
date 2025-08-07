@@ -2,14 +2,11 @@
 * @author @GameLord2011
 */
 
-using System.Reflection.Metadata;
-using System.Runtime.CompilerServices;
-
 Console.WriteLine("What's your name?");
 string name = Console.ReadLine();
-string[] swords = {};
-string[] shields = {};
-string[] items = {};
+string[] swords = [];
+string[] shields = [];
+string[] items = [];
 int health = 100;
 try{
     string capitalizedString = char.ToUpper(name[0]) + name.Substring(1);// capitalize
